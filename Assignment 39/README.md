@@ -1,3 +1,6 @@
+  <p align="center"><a href="https://www.w3schools.com/python/python_ml_getting_started.asp" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png" width="100"> Python and  Machine learning</a>
+
+# Machine_learning
 # Assignment 39
 ## Data Science
 - Identify what exactly happened on April?
