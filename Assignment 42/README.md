@@ -20,16 +20,16 @@
     🚺 Mean of Men height = 175.62 cm
 
 ## Evaluate your KNN algorithm on the test dataset.
-     | k      | 3      | 7      | 10      |15      |17       |
-     | :---   | :----  | :----  | :----  | :----   | :----   |
-     | Score  | 83.1%  | 84.7%  | 84.9%  | 85.2%   | 85.5%   |
+  | k      | 3      | 7      | 10      |15      |17       |
+  | :---   | :----  | :----  | :----  | :----   | :----   |
+  | Score  | 83.1%  | 84.7%  | 84.9%  | 85.2%   | 85.5%   |
 
 ## Evaluate the scikit-learn KNN :
-    | k                                                                      | 3      | 5      | 7      | 10      | 15      |
-    | :---                                                                   | :----  | :----  | :----  | :----   | :----   |
-    | Scores obtained by weight and stature features                         | 83.3%  | 84.5%  | 84.8%  | 85.2%   | 85.1%   |
-    | Scores obtained by weight and Buttock Circumference features           | 97.9%  | 97.9%  | 98.1%  | 97.9%   | 97.9%   |
-    | Scores obtained by weight, stature and Buttock Circumference features  | 97.3%  | 97.3%  | 97.7%  | 97.5%   | 97.4%   |
+  | k                                                                      | 3      | 7      | 10     | 15      |17     |
+  | :---                                                                   | :----  | :----  | :----  | :----   | :----   |
+  | Scores obtained by weight and stature features                         | 83.3%  | 84.5%  | 84.8%  | 85.2%   | 85.1%   |
+  | Scores obtained by weight and Buttock Circumference features           | 97.9%  | 97.9%  | 98.1%  | 97.9%   | 97.9%   |
+  | Scores obtained by weight, stature and Buttock Circumference features  | 97.3%  | 97.3%  | 97.7%  | 97.5%   | 97.4%   |
 ## Calculate confusion matrix for test dataset.
 
 ![Confusion Matrix me](https://raw.githubusercontent.com/Mohammadnematizade/Machine-Learning/main/Assignment%2042/output/Confusion%20Matrix%20in%20test%20data.png)
