@@ -17,8 +17,8 @@
   |  5 |  0.9666666666666667   |
   |  7 |  1.0   |
   |  9 |  1.0  |
-  ![res](https://raw.githubusercontent.com/Mohammadnematizade/Machine-Learning/main/Assignment%2043/output/IRIS_plt.png)
-  ![res](https://raw.githubusercontent.com/Mohammadnematizade/Machine-Learning/main/Assignment%2043/output/IRIS_matrix.png)
+![res](https://raw.githubusercontent.com/Mohammadnematizade/Machine-Learning/main/Assignment%2043/output/IRIS_plt.png)
+![res](https://raw.githubusercontent.com/Mohammadnematizade/Machine-Learning/main/Assignment%2043/output/IRIS_matrix.png)
 
 
 #### Breast Cancer dataset
@@ -29,8 +29,8 @@
   |  5 |  0.9385964912280702   |
   |  7 | 0.9473684210526315    |
   |  9 |  0.9473684210526315  |
-  ![res](https://raw.githubusercontent.com/Mohammadnematizade/Machine-Learning/main/Assignment%2043/output/Breast_Cancer_plt.png)
-  ![res](https://raw.githubusercontent.com/Mohammadnematizade/Machine-Learning/main/Assignment%2043/output/Breast_Cancer_matrix.png)
+![res](https://raw.githubusercontent.com/Mohammadnematizade/Machine-Learning/main/Assignment%2043/output/Breast_Cancer_plt.png)
+![res](https://raw.githubusercontent.com/Mohammadnematizade/Machine-Learning/main/Assignment%2043/output/Breast_Cancer_matrix.png)
 
 
 
