@@ -26,9 +26,10 @@
   | --------- |:---:|
   |  1 |  0.9035087719298246 |
   |  3 |  0.9298245614035088 |
-  |  5 |  0.9385964912280702   |
-  |  7 | 0.9473684210526315    |
+  |  5 |  0.9385964912280702  |
+  |  7 | 0.9473684210526315   |
   |  9 |  0.9473684210526315  |
+  
 ![res](https://raw.githubusercontent.com/Mohammadnematizade/Machine-Learning/main/Assignment%2043/output/Breast_Cancer_plt.png)
 ![res](https://raw.githubusercontent.com/Mohammadnematizade/Machine-Learning/main/Assignment%2043/output/Breast_Cancer_matrix.png)
 
