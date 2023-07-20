@@ -4,8 +4,7 @@ from scipy.spatial.distance import cdist
 class KNN:
     def __init__(self, k):
         self.k = k
-    
-
+        
     def fit(self, X_train, y_train):
         self.X_train = X_train
         self.y_train = y_train
