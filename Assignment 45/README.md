@@ -6,7 +6,7 @@
 ....
 
 ### Dollar Rial Price 💰
-- Tehran House Price  <a href='https://github.com/M-Taghizadeh/Dollar_Rial_Price_Dataset'>dat</a>
+- Dollar Rial Price  <a href='https://github.com/M-Taghizadeh/Dollar_Rial_Price_Dataset'>dat</a>
 
 ![res](https://raw.githubusercontent.com/Mohammadnematizade/Machine-Learning/main/Assignment%2045/output/output_Ahmadi_Nejad.png)
 ![res](https://raw.githubusercontent.com/Mohammadnematizade/Machine-Learning/main/Assignment%2045/output/output_Ebrahim_Raisi.png)
