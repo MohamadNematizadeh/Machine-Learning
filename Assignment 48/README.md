@@ -6,6 +6,8 @@
   | ![res](https://github.com/MohamadNematizadeh/Machine-Learning/blob/main/Assignment%2048/test.png?raw=true)| ![res](https://github.com/MohamadNematizadeh/Machine-Learning/blob/main/Assignment%2048/output.png?raw=true) |
  
 - loss and accuracy
+
+ 
    loss : 0.017198580354901058 
    accuracy :0.9928400954653938
 
