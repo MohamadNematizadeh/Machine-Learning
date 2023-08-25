@@ -1,4 +1,5 @@
 # Titanic🚢
+## MLP using TensorFlow
 what sorts of people were more likely to survive?
 ## result :
 | Algorithm | KNN | Perceptron | MLP (Multi Layer Perceptron)|
