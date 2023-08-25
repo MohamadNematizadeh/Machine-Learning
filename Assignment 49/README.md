@@ -1,7 +1,6 @@
 # Titanic🚢
-## MLP using TensorFlow
 what sorts of people were more likely to survive?
 ## result :
-| Algorithm | KNN | Perceptron | MLP (Multi Layer Perceptron)|
-| :---:         |     :---:      |        :---: | :---:|
-| Accuracy  |0.87%   |0.79%  | 0.83%|
+| Algorithm | KNN   | Perceptron | MLP (Multi Layer Perceptron)|
+| :---:     |:---:  |      :---: | :---:|
+| Accuracy  |72.66% |43.16%      | 0.92%|
