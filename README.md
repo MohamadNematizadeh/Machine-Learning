@@ -2,7 +2,7 @@
   <p align="center"><a href="https://www.w3schools.com/python/python_ml_knn.asp" target="_blank"><img src="https://raw.githubusercontent.com/Mohammadnematizade/Machine-Learning/main/Machine%20Learning.png" width="300"></a></p>
 
   
-# Machine-Learning
+# Machine-Learning 🤖
 ## Assignment 37
 - Crop digits and make a dataset with 10 directories.
   | Deta | file |
